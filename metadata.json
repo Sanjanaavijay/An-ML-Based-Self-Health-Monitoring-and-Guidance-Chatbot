@@ -1,0 +1,5 @@
+{
+  "name": "HealthGuardian AI",
+  "description": "An ML-powered self-health monitoring and guidance system that tracks habits, analyzes symptoms, and provides personalized wellness advice.",
+  "requestFramePermissions": []
+}
